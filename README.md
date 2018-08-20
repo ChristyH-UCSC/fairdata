@@ -1,1 +1,1 @@
-# fairdata
+# FAIR data
